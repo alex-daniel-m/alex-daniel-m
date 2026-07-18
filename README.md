@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Alex Daniel M. 👋
 
-<!--
-**alex-daniel-m/alex-daniel-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ Solutions Architect & Software Engineer
+Soy un arquitecto apasionado por diseñar sistemas escalables y automatizar flujos complejos. Actualmente divido mi tiempo entre la arquitectura empresarial en **HITSS Colombia** y la construcción de soluciones independientes en **Innosk**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Expertise
+* **Arquitectura:** C4 Model, Archimate, Hexagonal & Clean Architecture.
+* **Backend:** NestJS, Node.js, TypeScript.
+* **Automatización:** n8n, Make.com, Integraciones de API (GHL, Salesforce).
+* **Infraestructura:** AWS, Docker, Kubernetes, Cloudflare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados (Architectural Views)
+*(Aquí insertarás tus diagramas)*
+
+### 1. Integración Enterprise: Telco + Salesforce
+> *Diagrama de alto nivel mostrando la resiliencia y el flujo de datos.*
+*(Espacio para imagen: `![Diagrama Telco](ruta-a-tu-imagen.png)`)*
+
+### 2. Micro-SaaS: Innosk Lab
+> *Arquitectura de automatización y servicios modulares.*
+*(Espacio para imagen: `![Diagrama Innosk](ruta-a-tu-imagen.png)`)*
+
+## 🌐 Conectemos
+* **Website:** [innosk.com](https://innosk.com)
+* **LinkedIn:** [Tu perfil aquí]
+* **Email:** [Tu correo profesional]
+
+---
+*Construyendo soluciones eficientes, una línea de código a la vez.*
