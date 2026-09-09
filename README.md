@@ -1,29 +1,45 @@
-# ¡Hola! Soy Alex Daniel M. 👋
+# Hi there! I'm Alex Daniel M. 👋
 
 ## 🏗️ Solutions Architect & Software Engineer
-Soy un arquitecto apasionado por diseñar sistemas escalables y automatizar flujos complejos. Actualmente divido mi tiempo entre la arquitectura empresarial en **HITSS Colombia** y la construcción de soluciones independientes en **Innosk**.
-
-## 🛠️ Tech Stack & Expertise
-* **Arquitectura:** C4 Model, Archimate, Hexagonal & Clean Architecture.
-* **Backend:** NestJS, Node.js, TypeScript.
-* **Automatización:** n8n, Make.com, Integraciones de API (GHL, Salesforce).
-* **Infraestructura:** AWS, Docker, Kubernetes, Cloudflare.
-
-## 🚀 Proyectos Destacados (Architectural Views)
-*(Aquí insertarás tus diagramas)*
-
-### 1. Integración Enterprise: Telco + Salesforce
-> *Diagrama de alto nivel mostrando la resiliencia y el flujo de datos.*
-*(Espacio para imagen: `![Diagrama Telco](ruta-a-tu-imagen.png)`)*
-
-### 2. Micro-SaaS: Innosk Lab
-> *Arquitectura de automatización y servicios modulares.*
-*(Espacio para imagen: `![Diagrama Innosk](ruta-a-tu-imagen.png)`)*
-
-## 🌐 Conectemos
-* **Website:** [innosk.com](https://innosk.com)
-* **LinkedIn:** [Tu perfil aquí]
-* **Email:** [Tu correo profesional]
+Solutions Architect specializing in designing distributed, high-scale ecosystems, Headless decoupling, and complex workflow automation. Focused on bridging global industry standards—such as **TM Forum (ODA / Open APIs)**—with modern microservices architectures for the Telco and Fintech sectors.
 
 ---
-*Construyendo soluciones eficientes, una línea de código a la vez.*
+
+## 🛠️ Tech Stack & Core Competencies
+
+* **Architecture & Standards:** TM Forum (ODA / Open APIs), C4 Model, ArchiMate, Hexagonal & Clean Architecture, Event-Driven Systems.
+* **Backend & Runtimes:** Node.js, TypeScript, Fastify, NestJS, Bun, Prisma ORM, Zod.
+* **Integration & E-Commerce:** Headless Commerce (Medusa.js pattern), Omnichannel CRM, API Gateways, REST/GraphQL.
+* **Infrastructure & DevOps:** AWS, LocalStack, Docker, Docker Compose, Terraform, Cloudflare.
+
+---
+
+## 🚀 Featured Architectural Blueprints
+
+### 1. Enterprise Omnichannel Sales Journey (TM Forum ODA)
+> Architectural blueprint for a Telco/Fintech-grade headless sales journey. It maps omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and underlying BSS/OSS provisioning.
+
+![Enterprise Omnichannel Sales Journey](./images/telco-sales-journey.svg)
+
+#### 📌 Key Architectural Highlights
+* **Decoupled Experience Layer:** Omnichannel capability (Web, WhatsApp, CRM, Voice Channel) is fully decoupled from core business logic using an API Gateway facade.
+* **TM Forum Open API Alignment:** Standardized API wrappers for cart state (`TMF663`), product offering qualification (`TMF679`), credit risk scoring (`TMF670/TMF696`), device resource checks (`TMF639`), payment management (`TMF676`), and order fulfillment (`TMF622`/`TMF641`).
+* **Core Systems Isolation:** Seamless abstraction of legacy BSS/OSS engines, credit bureaus, and external PSPs behind vendor-agnostic Open APIs.
+
+---
+
+### 2. Micro-SaaS & Automation Architecture: Innosk Lab
+> Modular automation architecture and API-first services designed for rapid product deployment and event-driven workflows.
+
+![Innosk Lab Architecture](./docs/architectures/innosk-lab-architecture.png)
+
+---
+
+## 🌐 Let's Connect
+
+* **Website:** [innosk.com](https://innosk.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+*Designing resilient architectures and scalable systems, one module at a time.*
