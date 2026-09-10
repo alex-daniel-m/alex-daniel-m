@@ -5,7 +5,7 @@ Solutions Architect specializing in designing distributed, high-scale ecosystems
 
 * **Website:** [innosk.com](https://innosk.com)
 * **LinkedIn:** [alex-daniel-meza-lopez](https://linkedin.com/in/alex-daniel-meza-lopez)
-* **Email:** [alexdanielmeza@gmail.com.com](alexdanielmeza@gmail.com)
+* **Email:** alexdanielmeza@gmail.com
 
 ---
 
@@ -22,7 +22,7 @@ Solutions Architect specializing in designing distributed, high-scale ecosystems
 ## 🚀 Featured Architectural Blueprints
 
 ### 1. Enterprise Omnichannel Sales Journey (TM Forum ODA)
-> Architectural blueprint for a Telco/Fintech-grade headless sales journey. It maps omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and underlying BSS/OSS provisioning.
+> Architectural blueprint for a Tier-1 Telco-grade headless sales journey. It maps omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and underlying BSS/OSS provisioning.
 
 ![Enterprise Omnichannel Sales Journey](./images/telco-sales-journey.svg)
 
