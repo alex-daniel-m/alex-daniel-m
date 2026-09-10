@@ -1,7 +1,11 @@
 # Hi there! I'm Alex Daniel M. 👋
 
-## 🏗️ Solutions Architect & Software Engineer
-Solutions Architect specializing in designing distributed, high-scale ecosystems, Headless decoupling, and complex workflow automation. Focused on bridging global industry standards—such as **TM Forum (ODA / Open APIs)**—with modern microservices architectures for the Telco and Fintech sectors.
+## 🏗️ Solutions Architect | Software Engineer & Agentic AI Integration
+Solutions Architect specializing in designing distributed, high-scale ecosystems, Headless decoupling, and complex workflow automation. Focused on bridging global industry standards—such as **TM Forum (ODA / Open APIs)**—with modern microservices architectures and **Agentic AI integrations** for the Enterprise and Telco sectors.
+
+* **Website:** [innosk.com](https://innosk.com)
+* **LinkedIn:** [linkedin.com/in/alex-daniel-meza-lopez](https://linkedin.com)
+* **Email:** [your-email@example.com](alexdanielmeza@gmail.com)
 
 ---
 
@@ -37,9 +41,7 @@ Solutions Architect specializing in designing distributed, high-scale ecosystems
 
 ## 🌐 Let's Connect
 
-* **Website:** [innosk.com](https://innosk.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+
 
 ---
 *Designing resilient architectures and scalable systems, one module at a time.*
