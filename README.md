@@ -4,17 +4,18 @@
 Solutions Architect specializing in designing distributed, high-scale ecosystems, Headless decoupling, and complex workflow automation. Focused on bridging global industry standards—such as **TM Forum (ODA / Open APIs)**—with modern microservices architectures and **Agentic AI integrations** for the Enterprise and Telco sectors.
 
 * **Website:** [innosk.com](https://innosk.com)
-* **LinkedIn:** [linkedin.com/in/alex-daniel-meza-lopez](https://linkedin.com)
-* **Email:** [your-email@example.com](alexdanielmeza@gmail.com)
+* **LinkedIn:** [alex-daniel-meza-lopez](https://linkedin.com/in/alex-daniel-meza-lopez)
+* **Email:** [alexdanielmeza@gmail.com.com](alexdanielmeza@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Core Competencies
 
-* **Architecture & Standards:** TM Forum (ODA / Open APIs), C4 Model, ArchiMate, Hexagonal & Clean Architecture, Event-Driven Systems.
-* **Backend & Runtimes:** Node.js, TypeScript, Fastify, NestJS, Bun, Prisma ORM, Zod.
-* **Integration & E-Commerce:** Headless Commerce (Medusa.js pattern), Omnichannel CRM, API Gateways, REST/GraphQL.
-* **Infrastructure & DevOps:** AWS, LocalStack, Docker, Docker Compose, Terraform, Cloudflare.
+* **Architecture & Standards:** TM Forum (ODA / Open APIs), ArchiMate, C4 Model, Domain-Driven Design (DDD), Hexagonal & Clean Architecture, Event-Driven Systems (EDA).
+* **AI & Agentic Systems:** Agentic Workflow Automation, Model Context Protocol (MCP Servers), Tool & Skill Definition, Multi-Model Orchestration (OpenRouter/OpenCode integration).
+* **Backend & Runtimes:** Node.js, TypeScript, Fastify, NestJS, Bun, Prisma ORM, Zod, Oracle Service Bus (OSB 12c), WebLogic 12c.
+* **Integration & E-Commerce:** Headless Commerce (Medusa.js pattern), Omnichannel CRM, API Gateways, REST/GraphQL, SOAP/WSDL/XML.
+* **Infrastructure & DevOps:** AWS, LocalStack, Docker, Docker Compose, NGINX, Cloudflare, Linux.
 
 ---
 
