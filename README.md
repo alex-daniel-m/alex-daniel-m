@@ -1,7 +1,7 @@
 # Hi there! I'm Alex Daniel M. 👋
 
 ## 🏗️ Solutions Architect | Software Engineer & Agentic AI Integration
-Solutions Architect specializing in designing distributed, high-scale ecosystems, Headless decoupling, and complex workflow automation. Focused on bridging global industry standards—such as **TM Forum (ODA / Open APIs)**—with modern microservices architectures and **Agentic AI integrations** for the Enterprise and Telco sectors.
+Solutions Architect and Software Engineer with a proven track record of **architecting and building** high-scale distributed systems, Headless architectures, and complex workflow automations. Active in implementing global standards like **TM Forum (ODA / Open APIs)** and developing resilient microservices using **Node.js, TypeScript, and NestJS,** while integrating Agentic **AI workflows** across Enterprise and Telco environments.
 
 * **Website:** [innosk.com](https://innosk.com)
 * **LinkedIn:** [alex-daniel-meza-lopez](https://linkedin.com/in/alex-daniel-meza-lopez)
@@ -19,7 +19,7 @@ Solutions Architect specializing in designing distributed, high-scale ecosystems
 
 ---
 
-## 🚀 Featured Architectural Blueprints
+## 🚀 Current Enterprise Projects & Architectural Blueprints
 
 ### 1. Enterprise Omnichannel Sales Journey (TM Forum ODA)
 > Architectural blueprint for a Tier-1 Telco-grade headless sales journey. It maps omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and underlying BSS/OSS provisioning.
