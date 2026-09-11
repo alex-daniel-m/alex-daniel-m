@@ -13,12 +13,16 @@ Solutions Architect hands-on in **designing, building, and deploying** distribut
 
 **Architecture & Standards:** 
 > TM Forum (ODA / Open APIs), ArchiMate, C4 Model, Domain-Driven Design (DDD), Hexagonal & Clean Architecture, Event-Driven Systems (EDA).
+
 **AI & Agentic Systems:** 
 > Agentic Workflow Automation, Model Context Protocol (MCP Servers), Tool & Skill Definition, Multi-Model Orchestration (OpenRouter/OpenCode integration).
+
 **Backend & Runtimes:** 
 > Node.js, NestJS, TypeScript, Fastify, Bun, Prisma ORM, Zod, Oracle Service Bus (OSB 12c), WebLogic 12c.
+
 **Integration & E-Commerce:** 
 > Headless Commerce (Medusa.js pattern), Omnichannel CRM, API Gateways, REST/GraphQL, SOAP/WSDL/XML.
+
 **Infrastructure & DevOps:** 
 > AWS, LocalStack, Docker Compose, NGINX, Cloudflare, Linux.
 
