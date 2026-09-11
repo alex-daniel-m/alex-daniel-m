@@ -22,7 +22,7 @@ Solutions Architect hands-on in **designing, building, and deploying** distribut
 ## 🚀 Current Enterprise Projects & Architectural Blueprints
 
 ### 1. Enterprise Omnichannel Sales Journey (TM Forum ODA)
-> Architectural blueprint for a Tier-1 Telco-grade headless sales journey. It maps omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and underlying BSS/OSS provisioning.
+> Architectural blueprint reflecting the enterprise solutions I actively design and implement. It models a Tier-1 Telco-grade headless sales journey mapping omnichannel interactions through an API Gateway to TM Forum Open APIs, orchestrating credit risk scoring, IMEI validation, and BSS/OSS provisioning.
 
 ![Enterprise Omnichannel Sales Journey](./images/telco-sales-journey.svg)
 
